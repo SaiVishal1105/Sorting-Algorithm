@@ -1,6 +1,6 @@
 # Selection sort and Insertion sort
 NAME: SAI VISHAL D<BR>
-REF.NO: 23013576
+REG.NO: 212223230180
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
